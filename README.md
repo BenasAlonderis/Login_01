@@ -23,6 +23,7 @@
 ## run the app
 
 - Fill out the `.env` file;
+- Install dependencies `$ npm i`;
 - To run the react app `$ npm run react`;
 - To run the expressjs server `$ npm run node`;
 
