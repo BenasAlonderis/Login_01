@@ -1,5 +1,3 @@
-# Front-End Developer Candidate Task
-
 ## Overview
 
 - App was created without using `$ npx create-react-app`;
